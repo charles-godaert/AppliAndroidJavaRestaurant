@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ceci n\'est pas une application</string>
+    <string name="title_home">Resto</string>
+    <string name="title_dashboard">Kebab</string>
+    <string name="title_notifications">CBO</string>
+    <string name="button_text">Afficher la recette</string>
+    <string name="texteNomSandwich">Observez nos différents sandwich</string>
+    <string name="texteRecetteSandwich">Observez nos différents sandwich</string>
+</resources>
